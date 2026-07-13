@@ -8,9 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Final+Year+B.Tech+IT+Student;DSA+with+Java;Building+Real+World+Projects;Always+Learning+New+Things"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=anilsinghyadav954&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=anilsinghyadav954&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 
 ---
 
