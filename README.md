@@ -7,8 +7,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Final+Year+B.Tech+IT+Student;DSA+with+Java;Building+Real+World+Projects;Always+Learning+New+Things"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=anilsinghyadav954&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anilsinghyadav954&label=Visitors&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
