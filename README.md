@@ -48,10 +48,14 @@
 
 # 💻 Tech Stack
 
+## 💻 Tech Stack
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,java,python,git,github,vscode"/>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,mongodb,java,python,git,github,vscode,postman" />
 </p>
 
 ---
