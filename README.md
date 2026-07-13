@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Final+Year+B.Tech+IT+Student;Open+Source+Learner;Building+Real+World+Projects;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;Final+Year+B.Tech+IT+Student;DSA+with+Java;Building+Real+World+Projects;Always+Learning+New+Things"/>
 </p>
 
 <p align="center">
@@ -14,18 +14,19 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech (Information Technology)
-- 💻 Passionate Full Stack MERN Developer
+- 💻 Full Stack MERN Developer
 - 🌱 Currently Learning DSA with Java
-- 🚀 Building Real-World Web Applications
+- 🚀 Building Real World Projects
 - 🎯 Looking for Software Developer Opportunities
-- 📧 Email: **anilsinghyadav954@gmail.com**
+
+📧 **Email:** anilsinghyadav954@gmail.com
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -45,7 +46,7 @@
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -55,69 +56,76 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anilsinghyadav954&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anilsinghyadav954&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsinghyadav954&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsinghyadav954&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=anilsinghyadav954&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=anilsinghyadav954&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilsinghyadav954&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anilsinghyadav954&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎓 Student Management System
-- 📌 Student Attendance
-- 📌 Fee Management
-- 📌 Marks Management
-- 📌 Dashboard & Reports
+
+- Student Attendance
+- Fee Management
+- Marks Management
+- Dashboard & Reports
 
 ### 🗳️ Online Election System
-- 📌 Secure Voting
-- 📌 Authentication
-- 📌 Admin Dashboard
-- 📌 Live Result
+
+- Secure Voting
+- Authentication
+- Admin Dashboard
+- Live Result
 
 ### 🌐 Personal Portfolio Website
-- 📌 Responsive Design
-- 📌 React.js
-- 📌 Fast Performance
-- 📌 Modern UI
+
+- Responsive Design
+- Modern UI
+- React.js
+- Fast Performance
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/anilsinghyadav954/anilsinghyadav954/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-<h2 align="center">💙 Thanks for Visiting My Profile 💙</h2>
+<h2 align="center">
+💙 Thanks for Visiting My Profile 💙
+</h2>
 
 <h3 align="center">
 ⭐ Code • Learn • Build • Repeat 🚀 ⭐
