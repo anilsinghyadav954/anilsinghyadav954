@@ -57,15 +57,11 @@
 ---
 
 # 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilsinghyadav954&show_icons=true&theme=tokyonight)
 
-<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilsinghyadav954&layout=compact&theme=tokyonight)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anilsinghyadav954&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilsinghyadav954&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=anilsinghyadav954&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
