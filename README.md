@@ -50,18 +50,10 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,java,python,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,java,python,git,github,vscode"/>
 
 </p>
 
----
-
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anilsinghyadav954&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anilsinghyadav954&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anilsinghyadav954&theme=tokyonight)
 ---
 
 # 🔥 GitHub Streak
