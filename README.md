@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | B.Tech IT Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anil+Yadav;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Building+Awesome+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anil+Kumar;Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Building+Awesome+Projects" />
 </p>
 
 ---
